@@ -1,5 +1,6 @@
 # Discord headphones bot
 TL;DR - Add headphones to a picture's face(s) to learn more about facial recognition (through ML) and mess with Discord's API.
+This repo has the docker setup to run on a hosted server as well as some testing notebooks
 
 ### Context
 In a group of people I game with, if someone sends a picture, someone else typically adds on some headphones to make it look like the person is gaming. This Discord bot will add headphones for us.
